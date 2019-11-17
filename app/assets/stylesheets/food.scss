@@ -1,3 +1,53 @@
 // Place all the styles related to the food controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.puppy {
+    height: 40px;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+}
+
+.ingredients {
+    color: green;
+}
+
+.results{
+    padding: 20px;
+    margin: 20px;
+}
+
+li{
+    list-style-type: none;
+}
+
+.title{
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.foodTitle{
+    color: green;
+}
+
+.directions{
+    display: flex;
+}
+
+.directions p{
+    margin-left: 15px;
+}
+
+.search{
+    margin: 0 30%;
+}
+
+.search h1{
+    margin-left: 15%;
+    color: green;
+}
+
+form{
+    margin-top: 5%;
+}
